@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Iminjonov G'ofurjon
+=======
+ism familya
+>>>>>>> 1c2c0bbd194a75aa14f2070096a3b92473264ef3
