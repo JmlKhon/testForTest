@@ -2,3 +2,4 @@
 Ism 		familya
 Umarov	Jamolkhon
 >>>>>>> 800bcdd0706c335157f204077dde4bc4b5beab5d
+Isfandiyor Isroilov
