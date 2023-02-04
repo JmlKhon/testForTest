@@ -1,2 +1,1 @@
-salom
-rustam murodov 
+Rustam Murodov
