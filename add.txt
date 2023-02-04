@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 ism       familya
 Sherali    Erkayev
+=======
+Ism 		familya
+Umarov	Jamolkhon
+Iminjonov   G'ofurjon
+>>>>>>> 8bd8449044f7ffeac5a65eb67e8fe43dbbbb32ca
