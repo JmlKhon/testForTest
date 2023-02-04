@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Isfandiyor Isroilov
 
 =======
@@ -13,3 +14,7 @@ ism familya
 Bekhzod
 >>>>>>> f7fdd4bd06397b88154818ea951f7a21e5058842
 >>>>>>> 890b3125d38ad5ccb44ac9ecad1a96803a7000f3
+=======
+Ism 		familya
+Umarov	Jamolkhon
+>>>>>>> 800bcdd0706c335157f204077dde4bc4b5beab5d
