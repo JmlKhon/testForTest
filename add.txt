@@ -1,1 +1,2 @@
-ism       familya
+Ism 		familya
+Iminjonov   Gofurjon
